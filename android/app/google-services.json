@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648215314474",
+    "project_id": "fascia-care",
+    "storage_bucket": "fascia-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648215314474:android:8681feec93a1064af70353",
+        "android_client_info": {
+          "package_name": "com.example.fascia_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648215314474-8dcbnokdf99ur4nnp9pcrp9r64cj9f5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEATl0RRtL5SQ5mYR6bqW7KeJrDb-xw_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648215314474-8dcbnokdf99ur4nnp9pcrp9r64cj9f5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
